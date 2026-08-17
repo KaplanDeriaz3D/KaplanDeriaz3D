@@ -1,5 +1,7 @@
 # KaplanDeriaz3D
 
+This project provides an open-source foundation for the parametric preliminary design and 3D generation of Kaplan and Deriaz runners. It is intentionally designed as a starting point for further development by the community.
+
 Open-source tools for designing Kaplan and Deriaz hydraulic turbine runner blades — built as part of a Master's thesis on hydraulic machinery.
 
 KaplanDeriaz3D lets engineers and students generate hydrofoil blade geometry for **Kaplan (axial-flow)** and **Deriaz (diagonal-flow)** turbine runners, then export the resulting geometry for CAD work or further analysis.
